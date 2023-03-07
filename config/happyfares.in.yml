@@ -1,0 +1,22 @@
+data:
+  json: true
+  provider_code: 'happyfares.in'
+  request_url: 'http://aaapi.happyfares.in/flight/MetaAPIService.svc/JSONService/GetMetaSalesV2'
+  request_id: '123451232133'
+  ip_address: '192.168.1.1'
+  user: Wegolive
+  password: 540CDD5ED014530C1434F341FD011E6E6D16A704
+# conversion:
+#   currency: 'Currency'
+#   commission: 'CommissionValue'
+#   conversion_date: 'SaleDateTime'
+#   total_booking: 'GrossAmount'
+#   status: 'BookingStatus'
+#   device_type: 'Device'
+#   click_id: 'RedirectID'
+#   conversion_id:
+#     template: '[reference_no]-[origin]-[destination]'
+#     replace:
+#       reference_no: 'ReferenceNo'
+#       origin: 'Origin'
+#       destination: 'Destination'
